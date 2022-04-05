@@ -1,2 +1,1 @@
-new metest
-test result
+final result
